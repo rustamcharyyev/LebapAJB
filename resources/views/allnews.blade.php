@@ -1,0 +1,16 @@
+@extends('inc.layout.head')
+
+@section('title-block')<title>Türkmenistan Täzelikleri</title>@endsection
+
+@section('content')
+
+{{--    @foreach($data as $el)--}}
+{{--        <div class="alert alert-info">--}}
+{{--            <h3>{{ $el->subject }}</h3>--}}
+{{--            <p>{{ $el->email }}</p>--}}
+{{--            <p><small>{{ $el->created_at }}</small></p>--}}
+{{--            <a href="{{ route('contact-msg', $el->id) }}"><button class="btn btn-warning">Dowamy</button></a>--}}
+{{--        </div>--}}
+{{--    @endforeach--}}
+
+@endsection

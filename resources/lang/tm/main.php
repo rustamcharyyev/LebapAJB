@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'main_page' => 'Baş sahypa',
+    'main_news' => 'Esasy Habarlar',
+    'news' => 'Täzelikler',
+    'contact' => 'Habarlaşmak üçin',
+    'other' => 'Beýlekiler',
+    'about' => 'Biz barada',
+    'pages' => 'Sahypalarymyz',
+    'view' => 'Köp okalanlar',
+    'care' => 'Çäreler',
+    'more' => 'Dowamy',
+    'allnews' => 'Ähli Habarlar',
+    'politic' => 'Syýasat',
+    'economy' => 'Ykdysadyýet',
+    'agri' => 'Oba Hojalygy',
+    'h_and_s' => 'Saglyk we Sport',
+    'gener' => 'Umumy',
+    'file' => 'Maglumatlar',
+    'photo' => 'Suratlar',
+    'meas' => 'Çäreler',
+    'announ' => 'Bildirişler',
+    'name' => 'Doly adyňyz',
+    'phone' => 'Telefon belgiňiz',
+    'email' => 'E-poçta adressiňiz',
+    'subject' => 'Ugratjak hatyňyzyň temasy',
+    'msg' => 'Ugratjak Hatyňyzyň beýany',
+    'cbtn' => 'Haty ugrat',
+    'search' => 'Gözle...'
+];

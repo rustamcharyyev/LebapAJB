@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'main_page' => 'Home',
+    'main_news' => 'Main News',
+    'news' => 'News',
+    'contact' => 'Contact us',
+    'other' => 'Others',
+    'about' => 'About us',
+    'pages' => 'Our pages',
+    'view' => 'Most read',
+    'care' => 'Measures',
+    'more' => 'Continued',
+    'allnews' => 'All news',
+    'politic' => 'Politics',
+    'economy' => 'Economy',
+    'agri' => 'Agriculture',
+    'h_and_s' => 'Health and Sports',
+    'gener' => 'General',
+    'file' => 'Information',
+    'photo' => 'Images',
+    'meas' => 'Health and Sports',
+    'announ' => 'General',
+    'name' => 'Full name',
+    'phone' => 'Your phone number',
+    'email' => 'Your e-mail address',
+    'subject' => 'The subject of the letter you are about to send',
+    'msg' => 'A description of the letter you are about to send',
+    'cbtn' => 'Send a message',
+    'search' => 'Search...'
+];
